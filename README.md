@@ -34,7 +34,7 @@ This is a resident-service part for tradies-platform
 2. Run: docker-compose up --build    #when in resident-serviceGH
 
 3. Access the service via:
-Backend: http://localhost:8080
+Backend: http://localhost:8080/api/residents
 Frontend: http://localhost:3000
 
 
